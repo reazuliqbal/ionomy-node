@@ -1,0 +1,31 @@
+{
+  "name": "ionomy-node",
+  "version": "0.0.0",
+  "description": "Ionomy API client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionomy",
+    "ionomy-node"
+  ],
+  "author": "Reazul Iqbal <hello@reazul.net>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBull/ionomy-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeBull/ionomy-node/issues"
+  },
+  "homepage": "https://github.com/CodeBull/ionomy-node#readme"
+}
